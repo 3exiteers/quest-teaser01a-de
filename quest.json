@@ -1,0 +1,35 @@
+{
+    "repository": {
+        "type": "quest",
+        "organization": "3exiteers",  
+        "repository": "quest-teaser01a-de",
+        "private": true
+      },
+    "id": "teaser01a-de",
+    "type": "quest",
+    "version": 1.0,
+    "tag": ["text", "nonsense"],
+    "level": ["easy"],
+    "license": "MIT",
+    "name": "Teaser01a",
+    "description": "",
+    "solutions":["passwort123", "passwort 123"],
+    "content": {
+        "body": "[playarea:{height:600px}{width:100%}{color:#FFFFFF}{opacity:1}{default_top:#random}{default_left:#random}{default_option_rotation:false}{item1_filename:passwort_02.png}{item1_size:55}{item1_option_resize:false}{item2_filename:passwort.png}{item2_option_resize:true}]"
+    },
+    "hints":{
+        "1":{
+            "text":"",
+            "points":-3
+        },
+        "2":{
+            "text":"",
+            "points":-3
+        },
+        "3":{
+            "text":"Die Lösung lautet %%%variable:solution%%%.",
+            "points":-10,
+            "solution": true
+        }
+    }
+}
