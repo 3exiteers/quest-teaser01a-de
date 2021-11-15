@@ -19,11 +19,11 @@
     },
     "hints":{
         "1":{
-            "text":"",
+            "text":"Versucht eine Position zu finden bei der alle Kästchen einen Buchstaben oder eine Zahl überdecken. Die Reihenfolge könnt ihr anders herleiten.",
             "points":-3
         },
         "2":{
-            "text":"",
+            "text":"Die Reihenfolge wird angegeben durch das Bild darüber. Der erste Buchstabe ist ein 'P'.",
             "points":-3
         },
         "3":{
