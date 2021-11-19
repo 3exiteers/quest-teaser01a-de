@@ -15,7 +15,7 @@
     "description": "",
     "solutions":["passwort123", "passwort 123"],
     "content": {
-        "body": "[image:{filename:passwort-03.png}{width:40%}][playarea:{height:600px}{width:100%}{color:#FFFFFF}{opacity:1}{default_top:#random}{default_left:#random}{default_option_rotation:false}{default_option_resize:false}{item1_filename:passwort-01.png}{item1_size:45}{item1_option_resize:false}{item2_filename:passwort-02.png}{item2_size:45}]"
+        "body": "[image:{filename:passwort-03.png}{width:40%}][playarea:{height:600px}{width:100%}{color:#FFFFFF}{opacity:1}{default_top:#random}{default_left:#random}{default_option_rotation:false}{default_option_resize:false}{item1_filename:passwort-01.png}{item1_size:45}{item1_option_resize:false}{item2_filename:passwort-02.png}{item2_size:45}]<p> Finde das Passwort für das Framework mit den vorliegenden Dokumenten.</p>"
     },
     "hints":{
         "1":{
